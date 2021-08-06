@@ -1,0 +1,11 @@
+*.pyc
+__pycache__
+.DS_Store
+.vscode
+.idea
+.pypirc
+.python-version
+site/
+.venv
+*.xml
+excel/*
